@@ -1,0 +1,16 @@
+[
+{
+  "modid": "FCMiner",
+  "name": "FortressCraft-like-Mining",
+  "description": "Adds ",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["beepbeat/holladiewal"],
+  "credits": "The Forge and FML guys, for making the Forge ModLoader, the MCP Team for making the Minecraft Coders Pack,and Parcel31u for giving me this idea ",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

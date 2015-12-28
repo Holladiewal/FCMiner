@@ -1,0 +1,11 @@
+.gradle
+eclipse
+build
+gradle
+forge-1.7.10-10.13.4.1614-1.7.10-changelog.txt
+MinecraftForge-*.txt
+*.txt
+*.iml
+*.ipr
+*.iws
+gradle.properties
